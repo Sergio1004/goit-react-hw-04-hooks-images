@@ -2,6 +2,7 @@
   "name": "goit-react-hw-04-hooks-images",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sergio1004.github.io/goit-react-hw-04-hooks-images/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
